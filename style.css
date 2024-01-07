@@ -1,0 +1,21 @@
+.div{
+    background-color:rgb(137, 224, 113);
+    width: 70;
+    height: 70;
+    border: 20;
+    font-size: 30px;
+}
+.scb{
+    background-color: aquamarine;
+    border: inherit;
+    width: 50;
+    font-size: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+body{
+    background: url(tttgi.png);
+}
+.head{
+    color: aliceblue;
+}
